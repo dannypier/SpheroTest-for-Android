@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SpheroTest!</string>
+    <string name="app_name">SpheroTest</string>
+    <string name="speedLabel">Speed</string>
+    <string name="speedValue">speedValue</string>
+    <string name="headingLabel">Heading</string>
+    <string name="headingValue">headingValue</string>
+    <string name="setSpeedLabel">Set Speed</string>
+    <string name="setHeadingLabel">Set Heading</string>
+
+    <string-array name="speedEntries">
+        <item>.5</item>
+        <item>.6</item>
+        <item>.7</item>
+        <item>.8</item>
+        <item>.9</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="driveTimeEntries">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+    </string-array>
+    <string-array name="headingEntries">
+        <item>0</item>
+        <item>45</item>
+        <item>90</item>
+        <item>135</item>
+        <item>180</item>
+        <item>225</item>
+        <item>270</item>
+        <item>325</item>
+    </string-array>
+
+    <string name="setDriveTimeLabel">Set Drive Time</string>
+
+    <string name="go">Go</string>
+
+</resources>
